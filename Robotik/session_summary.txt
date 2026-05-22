@@ -1,0 +1,13 @@
+======================================
+   OTOPARK KONTROL — OTURUM OZETI
+======================================
+Tarih/Saat : 2026-05-21 09:33:51
+Sure       : 0dk 47sn
+Senaryo    : ORTA IHLAL
+--------------------------------------
+Taranan    : 6
+Temiz      : 3
+Ihlal      : 3
+Ihlal Orani: %50.0
+======================================
+CSV        : D:\Robotik\violations.csv

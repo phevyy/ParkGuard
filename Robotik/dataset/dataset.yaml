@@ -1,0 +1,7 @@
+names:
+- disabled_plate
+- normal_plate
+nc: 2
+path: D:\Robotik\dataset
+train: images/train
+val: images/val
